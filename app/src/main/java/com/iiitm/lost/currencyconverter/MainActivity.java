@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Double Dollar = Double.parseDouble(input.getText().toString());
-        Double Rupee = 72.22*Dollar;
+        Double Rupee = 74.07*Dollar;
 
         Log.i("Dollar", input.getText().toString());
 
